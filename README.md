@@ -1,4 +1,4 @@
-# Freedemy
+[# Freedemy
 Freedemy is an open-source, free online skill learning platform built using Django, HTML5, CSS3, and SQLite.
 Installation:
 
@@ -36,3 +36,4 @@ Testing
 To run unit tests:
 python3 manage.py test
 
+](https://freedemy-4ed54a9c29fb.herokuapp.com/)https://freedemy-4ed54a9c29fb.herokuapp.com/
